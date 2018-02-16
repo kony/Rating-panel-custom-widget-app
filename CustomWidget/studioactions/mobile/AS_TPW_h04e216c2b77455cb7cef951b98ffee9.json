@@ -1,0 +1,27 @@
+{
+    "AS_TPW_h04e216c2b77455cb7cef951b98ffee9": {
+        "id": "AS_TPW_h04e216c2b77455cb7cef951b98ffee9",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "Form1",
+            "type": "forms",
+            "platform": "",
+            "KUID": "c000e2145fdb44e595f4905c940b7e69"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___e65f24e80acb4de0a212c8b0f38573ed",
+            "type": "INVOKE_FUNCTION",
+            "display": "<>",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

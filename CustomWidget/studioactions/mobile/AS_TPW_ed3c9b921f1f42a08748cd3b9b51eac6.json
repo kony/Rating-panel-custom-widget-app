@@ -1,0 +1,28 @@
+{
+    "AS_TPW_ed3c9b921f1f42a08748cd3b9b51eac6": {
+        "id": "AS_TPW_ed3c9b921f1f42a08748cd3b9b51eac6",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "Form1",
+            "type": "forms",
+            "platform": "",
+            "KUID": "c000e2145fdb44e595f4905c940b7e69"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___ed87c118c89841de8413bf5b8f0ab610",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onRatingDoneAndroid",
+            "display": "onRatingDoneAndroid",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

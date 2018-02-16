@@ -1,0 +1,28 @@
+{
+    "AS_Button_h727b3f1c6464f1b81c426280091b258": {
+        "id": "AS_Button_h727b3f1c6464f1b81c426280091b258",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "Form1",
+            "type": "forms",
+            "platform": "",
+            "KUID": "c000e2145fdb44e595f4905c940b7e69"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___ff4d09fa5bba4c44ba9941fa0eef820f",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "rateIt",
+            "display": "rateIt",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

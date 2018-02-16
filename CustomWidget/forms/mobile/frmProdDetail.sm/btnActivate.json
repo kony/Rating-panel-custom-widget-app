@@ -1,0 +1,58 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "45dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        2,
+        0,
+        2,
+        0
+    ],
+    "_skin_": "sff76705fef34a40bc2cb0a17fa6bafb",
+    "_text_": "Rate the product",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "80%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "sff76705fef34a40bc2cb0a17fa6bafb",
+    "id": "btnActivate",
+    "ide_onClick": "AS_Button_b2a182ec7d7b4e598120dea399c2db56",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "d52e45bd18dd4dca91dde99c5fe5c5ac",
+    "name": "kony.ui.Button",
+    "paddinginpixel": false,
+    "parent": "flxBtnActivate",
+    "pf": "frmProdDetail",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 1
+}

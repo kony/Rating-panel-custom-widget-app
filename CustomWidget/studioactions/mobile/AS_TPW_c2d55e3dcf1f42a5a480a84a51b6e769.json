@@ -1,0 +1,38 @@
+{
+    "AS_TPW_c2d55e3dcf1f42a5a480a84a51b6e769": {
+        "id": "AS_TPW_c2d55e3dcf1f42a5a480a84a51b6e769",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "Form1",
+            "type": "forms",
+            "platform": "",
+            "KUID": "c000e2145fdb44e595f4905c940b7e69"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___cb1c648c1ef145b8ab9c5cb1d9830dab",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onRatingDone",
+            "display": "onRatingDone",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": true,
+            "source": "controller"
+        }, {
+            "id": "INVOKE_FUNCTION___a70f64214f4f4670afc4ff5866e25a0c",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onRatingDone",
+            "display": "onRatingDone",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}
